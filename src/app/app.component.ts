@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-17-firebase-crud';
+  title = 'Angular 17 Firebase CRUD';
 }
